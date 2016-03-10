@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Condo For Rent]]></title>
         <description><![CDATA[Condo For Rent]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/29bruxelles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 11:51:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 11:53:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/29bruxelles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kitchen</p>]]></description>
+            <link>https://thegrid.ai/29bruxelles/63269371-1102-41a8-8d9b-abe5b480e2ed/index.html</link>
+            <guid isPermaLink="false">63269371-1102-41a8-8d9b-abe5b480e2ed</guid>
+            <pubDate>Thu, 10 Mar 2016 11:53:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Condo for rent </p>]]></description>
-            <link>undefinede658c4d9-30a3-4043-9405-b7f4fd4276d4/index.html</link>
+            <link>https://thegrid.ai/29bruxelles/e658c4d9-30a3-4043-9405-b7f4fd4276d4/index.html</link>
             <guid isPermaLink="false">e658c4d9-30a3-4043-9405-b7f4fd4276d4</guid>
             <pubDate>Thu, 10 Mar 2016 11:51:08 GMT</pubDate>
         </item>
