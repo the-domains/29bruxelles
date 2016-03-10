@@ -1,0 +1,28 @@
+name: 29bruxelles
+favicon: null
+layout_spectrum: 0.36947943293489516
+typography_spectrum: 0.6168533493764699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8360878927633166
+  lightness: 0.767344692023471
+  saturation: 0.7270199244376272
+  rhythmicContrast: 0.7764053188730031
+purpose: []
